@@ -1,0 +1,3 @@
+git lfs track "*.html"
+
+git add -gitattributes
